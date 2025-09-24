@@ -27,16 +27,6 @@ Este projeto é uma aplicação web simples para sortear o "amigo secreto". O ob
 
 ---
 
-## Demonstração
-
-![Captura de tela ou vídeo mostrando a adição de nomes](link-da-imagem-1.png)
-_Adicionando nomes à lista._
-
-![Captura de tela ou vídeo mostrando o resultado do sorteio](link-da-imagem-2.png)
-_Resultado do sorteio de amigos secretos._
-
----
-
 ## Tecnologias Utilizadas
 
 - **HTML**
