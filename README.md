@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Desafio Amigo Secreto
 Aplicativo para sortear amigo secreto
 
