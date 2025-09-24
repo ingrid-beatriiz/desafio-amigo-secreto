@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Desafio Amigo Secreto
 Aplicativo para sortear amigo secreto
 
@@ -42,5 +43,3 @@ _Resultado do sorteio de amigos secretos._
 - **HTML**
 - **CSS**
 - **JavaScript**
-
----
